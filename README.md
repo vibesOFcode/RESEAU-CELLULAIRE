@@ -64,7 +64,7 @@ Ce résultat correspond à une configuration typique utilisée pour illustrer le
 
 ## Prérequis
 
-Avant de lancer le projet, assurez-vous d’avoir installé :
+Avant de lancer le projet, j'installe :
 
 - Python 3.9+
 - FastAPI
@@ -146,35 +146,4 @@ La réponse est une image PNG.
 
 ---
 
-## Exemple d’utilisation
-
-Voici un exemple simple d’appel dans un navigateur ou via `curl` :
-
-```bash
-curl "http://127.0.0.1:8000/calculate?i=3&j=2"
-```
-
----
-
-## Structure du projet
-
-```text
-API CELLULAIRE/
-├── code.py
-├── README.md
-└── .dist/
-```
-
----
-
-## Conclusion
-
-Le nom du projet, `API CELLULAIRE`, est parfaitement cohérent avec son objectif : modéliser visuellement un réseau cellulaire hexagonal et calculer ses éléments clés à partir de formules mathématiques. Il est clair, direct et adapté au domaine des télécommunications.
-
-Si vous souhaitez, vous pouvez aussi le renommer en version plus standard :
-
-- `API Cellulaire`
-- `api-cellulaire`
-- `Cellular Network API`
-
-Selon votre style de projet, le nom `API CELLULAIRE` est entièrement correct et compréhensible.
+RE` est entièrement correct et compréhensible.
